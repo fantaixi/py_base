@@ -1,10 +1,13 @@
-def gcd(x,y):
+def gcd(x, y):
     '''最大公约数'''
-    (x,y) = (y,x) if x > y else (x,y)
-    for factor in range(x,0,-1):
-        if x % factor == 0 and y % factor == 0:
-            return factor
+    while y != 0:
+        x, y = y, x % y
+    return x
 
-def lcm(x,y):
+
+def lcm(x, y):
     '''最小公倍数'''
-    return x * y // gcd(x,y)
+    return x * y // gcd(x, y)
+
+print(gcd(15,25))
+print(lcm(15,25))

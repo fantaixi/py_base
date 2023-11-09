@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="84670f59-9071-410b-baf0-7de41512cc88" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../demo2语言元素/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3分支结构/练习3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo7面向对象/类和对象.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo7面向对象/练习/数字时钟.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo7面向对象/访问可见性问题.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo2语言元素/类型转换.py" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2语言元素/类型转换.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo2语言元素/练习1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2语言元素/练习1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo3分支结构/练习1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../demo3分支结构/练习1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo3分支结构/练习2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../demo3分支结构/练习2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo4循环结构/练习1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../demo4循环结构/练习1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo4循环结构/练习2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../demo4循环结构/练习2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo4循环结构/练习3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../demo4循环结构/练习3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斐波那契数列.py" beforeDir="false" afterPath="$PROJECT_DIR$/斐波那契数列.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/水仙花数.py" beforeDir="false" afterPath="$PROJECT_DIR$/水仙花数.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2XwbnHtNF6Tf1g3WuVbqwPmNc2r" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/pywks/demo6函数和模块的使用",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.输出100以内所有的素数">
+    <configuration name="百钱百鸡" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="demo5练习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/百钱百鸡.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="输出100以内所有的素数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="demo5练习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/输出100以内所有的素数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="斐波那契数列" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="demo5练习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/斐波那契数列.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.输出100以内所有的素数" />
+        <item itemvalue="Python.斐波那契数列" />
+        <item itemvalue="Python.百钱百鸡" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84670f59-9071-410b-baf0-7de41512cc88" name="Changes" comment="" />
+      <created>1699543254318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699543254318</updated>
+      <workItem from="1699543255327" duration="2772000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/demo5$.coverage" NAME="斐波那契数列 Coverage Results" MODIFIED="1699546832225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/demo5$100.coverage" NAME="输出100以内所有的素数 Coverage Results" MODIFIED="1699547300371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

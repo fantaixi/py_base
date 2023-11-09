@@ -4,9 +4,9 @@
 a = int(input("a = "))
 b = int(input("b = "))
 if a > b:
-    a,b = b,a
-for factor in range(a,0,-1):
-    if a % factor == 0 and b % factor == 0:
-        print('%d和%d的最大公约数是%d' % (a, b, factor))
-        print('%d和%d的最小公倍数是%d' % (a, b, a * b // factor))
+    a, b = b, a
+for num in range(a, 0, -1):
+    if a % num == 0 and b % num == 0:
+        print("最小公倍数是%d" % num)
+        print("最大公约数是%d" % (a * b / num))
         break
