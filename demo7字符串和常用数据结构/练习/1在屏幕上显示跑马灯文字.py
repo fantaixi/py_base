@@ -1,7 +1,5 @@
 import os
 import time
-
-
 def main():
     content = "北京欢迎你...."
     while True:
@@ -11,3 +9,4 @@ def main():
         content = content[1:] + content[0]
 if __name__ == "__main__":
     main()
+

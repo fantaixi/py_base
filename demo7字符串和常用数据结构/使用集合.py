@@ -22,6 +22,7 @@ set2.discard(5)
 if 4 in set2:
     set2.remove(4)
 print(set1, set2)
+# pop()方法用于从集合中随机移除并返回一个元素。
 print(set3.pop())
 print(set3)
 print("----------------------")
