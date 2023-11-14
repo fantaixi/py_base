@@ -4,6 +4,14 @@
 # 当我们把一大堆拥有共同特征的对象的静态特征（属性）和动态特征（行为）都抽取出来后，就可以定义出一个叫做“类”的东西。
 
 # 使用class关键字定义类
+
+"""
+self是一个指向实例对象本身的引用，它是类中方法的第一个参数。
+当你创建一个类的实例时，Python会自动将这个实例作为第一个参数传递给类中的方法。
+self的主要作用是：
+它使得类中的方法能够访问和操作实例的属性和其他方法。
+它使得方法能够在不知道具体实例的情况下引用实例。
+"""
 class Student(object):
 
     # __init__是一个特殊方法用于在创建对象时进行初始化操作
@@ -24,7 +32,8 @@ class Student(object):
             print('%s正在观看岛国爱情大电影.' % self.name)
 
 def main():
-    stu1 = Student("aaa",23)
+    age = int(input("输入年龄："))
+    stu1 = Student("aaa",age)
     stu1.study("py")
     stu1.watch_movie()
 

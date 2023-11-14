@@ -1,6 +1,6 @@
 # 定义一个类描述数字时钟。
+"""
 from time import sleep
-
 
 class Clock(object):
     def __init__(self,hour=0,minute=0,second=0):
@@ -28,6 +28,39 @@ def main():
         print(clock.show())
         sleep(1)
         clock.run()
+
+if __name__ == "__main__":
+    main()
+"""
+
+
+
+import threading
+import time
+from datetime import datetime
+
+
+class Clock(object):
+    def __init__(self):
+        self._running = True
+        self._thread = threading.Thread(target=self._run)
+
+    def _run(self):
+        while self._running:
+            now = datetime.now()
+            print(now.strftime("%Y-%m-%d %H:%M:%S"),end="\n")
+            time.sleep(1)
+
+    def start(self):
+        self._thread.start()
+    def stop(self):
+        self._running = False
+        self._thread.join()
+def main():
+    clock = Clock()
+    clock.start()
+    time.sleep(10)  # 运行10秒钟
+    clock.stop()
 
 if __name__ == "__main__":
     main()
