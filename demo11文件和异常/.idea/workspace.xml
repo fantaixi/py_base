@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3b2d19e-15e8-4ac2-851d-76d558f3f6b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../demo10用户界面和游戏/1基于tkinter模块的GUI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo10用户界面和游戏/2使用Pygame进行游戏开发.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/111.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1读写文本文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2异常.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3上下文.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4循环逐行读取.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5将文本信息写入文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6读写二进制文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7读写JSON文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8读取JSON数据.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aaa.txt" afterDir="false" />
-    </list>
+    <list default="true" id="a3b2d19e-15e8-4ac2-851d-76d558f3f6b3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -189,6 +176,7 @@
       <updated>1700636937762</updated>
       <workItem from="1700636942477" duration="7573000" />
       <workItem from="1700662734539" duration="3000" />
+      <workItem from="1700662816582" duration="139000" />
     </task>
     <servers />
   </component>
