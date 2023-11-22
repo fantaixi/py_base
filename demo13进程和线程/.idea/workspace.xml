@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85964190-e04a-48ab-b286-85a38d6c4f92" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../demo12正则表达式/1验证用户名和QQ号.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo12正则表达式/2提取出国内手机号码.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo12正则表达式/3替换字符串中的不良内容.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo12正则表达式/4拆分长字符串.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2YXKf9luXxPw4JQJ6QLMvzsS6eM" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85964190-e04a-48ab-b286-85a38d6c4f92" name="Changes" comment="" />
+      <created>1700666584547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700666584547</updated>
+      <workItem from="1700666587989" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
