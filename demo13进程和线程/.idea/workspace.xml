@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85964190-e04a-48ab-b286-85a38d6c4f92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1多进程/1多进程.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1多进程/2使用多进程.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1多进程/3进程通信.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2多线程/1多线程.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2多线程/2自定义线程.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2多线程/3资源.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2多线程/4加锁.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/1将耗时间的任务放到线程中.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/2改进.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/3使用多进程对复杂任务进行“分而治之”.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/4改进.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/介绍.txt" afterDir="false" />
-    </list>
+    <list default="true" id="85964190-e04a-48ab-b286-85a38d6c4f92" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +40,7 @@
       <recent name="D:\pywks\demo13进程和线程\多进程" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.4改进">
+  <component name="RunManager" selected="Python.1将耗时间的任务放到线程中">
     <configuration name="1将耗时间的任务放到线程中" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo13进程和线程" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -210,7 +197,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.4改进" />
         <item itemvalue="Python.3使用多进程对复杂任务进行“分而治之”" />
         <item itemvalue="Python.2改进" />
         <item itemvalue="Python.1将耗时间的任务放到线程中" />
@@ -231,6 +217,7 @@
       <workItem from="1700680825701" duration="592000" />
       <workItem from="1700804714054" duration="8493000" />
       <workItem from="1700855878240" duration="3131000" />
+      <workItem from="1700893606534" duration="234000" />
     </task>
     <servers />
   </component>
