@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54b974a2-1077-4f28-aa2f-3141d86825ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../demo14网络编程/1requests库/requests_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo14网络编程/2套接字编程/1TCP套接字.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo14网络编程/2套接字编程/2客户端.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo14网络编程/3完整的CS/111.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo14网络编程/3完整的CS/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo14网络编程/3完整的CS/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo14网络编程/4发送电子邮件/send.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo14网络编程/4发送电子邮件/发送带有附件的邮件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo14网络编程/5发送短信/send.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo14网络编程/介绍.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1图像/111.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1图像/img.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2文档/Excel/ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2文档/word/word.py" afterDir="false" />
-    </list>
+    <list default="true" id="54b974a2-1077-4f28-aa2f-3141d86825ed" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,6 +125,7 @@
       <option name="presentableId" value="Default" />
       <updated>1700902457191</updated>
       <workItem from="1700902466504" duration="1885000" />
+      <workItem from="1701839493760" duration="645000" />
     </task>
     <servers />
   </component>
