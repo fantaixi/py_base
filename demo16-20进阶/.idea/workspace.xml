@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c972f1f5-598b-40cf-9043-5921b0a65120" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/06数据结构/03常用算法/1穷举法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06数据结构/03常用算法/2贪婪法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06数据结构/03常用算法/3.0分治法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06数据结构/03常用算法/3.1快排.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06数据结构/03常用算法/4回溯.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06数据结构/03常用算法/5动态规划.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07函数/1装饰器函数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07函数/2参数化的装饰器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07函数/3定义类的方式定义装饰器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07函数/4单例模式.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07函数/5线程安全的单例装饰器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07函数/介绍.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08面向对象/1三大支柱.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08面向对象/2相互关系.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08面向对象/3元编程和元类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08面向对象/4设计模式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08面向对象/5迭代器和生成器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08面向对象/设计原则.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +44,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.1装饰器函数">
+  <component name="RunManager" selected="Python.5迭代器和生成器">
     <configuration name="1装饰器函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo16-20进阶" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3.0分治法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1三大支柱" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo16-20进阶" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,12 +75,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06数据结构/03常用算法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08面向对象" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\pywks\demo16-20进阶\06数据结构\03常用算法\3.0分治法.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08面向对象/1三大支柱.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3.1快排" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2相互关系" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo16-20进阶" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,12 +97,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06数据结构/03常用算法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08面向对象" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\pywks\demo16-20进阶\06数据结构\03常用算法\3.1快排.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08面向对象/2相互关系.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4回溯" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4设计模式" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo16-20进阶" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,12 +119,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06数据结构/03常用算法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08面向对象" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06数据结构/03常用算法/4回溯.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08面向对象/4设计模式.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5动态规划" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5迭代器和生成器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo16-20进阶" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,12 +141,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06数据结构/03常用算法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08面向对象" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06数据结构/03常用算法/5动态规划.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08面向对象/5迭代器和生成器.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,11 +157,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.5迭代器和生成器" />
+        <item itemvalue="Python.4设计模式" />
+        <item itemvalue="Python.2相互关系" />
         <item itemvalue="Python.1装饰器函数" />
-        <item itemvalue="Python.5动态规划" />
-        <item itemvalue="Python.4回溯" />
-        <item itemvalue="Python.3.1快排" />
-        <item itemvalue="Python.3.0分治法" />
       </list>
     </recent_temporary>
   </component>
@@ -182,6 +175,7 @@
       <workItem from="1701933487878" duration="262000" />
       <workItem from="1701938020678" duration="8398000" />
       <workItem from="1701972330689" duration="3579000" />
+      <workItem from="1702034886629" duration="4600000" />
     </task>
     <servers />
   </component>
@@ -189,11 +183,11 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/demo16_20$2.coverage" NAME="2贪婪法 Coverage Results" MODIFIED="1701941246161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06数据结构/03常用算法" />
-    <SUITE FILE_PATH="coverage/demo16_20$5.coverage" NAME="5动态规划 Coverage Results" MODIFIED="1701956426455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06数据结构/03常用算法" />
+    <SUITE FILE_PATH="coverage/demo16_20$2.coverage" NAME="2相互关系 Coverage Results" MODIFIED="1702036877885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08面向对象" />
+    <SUITE FILE_PATH="coverage/demo16_20$5.coverage" NAME="5迭代器和生成器 Coverage Results" MODIFIED="1702046704031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08面向对象" />
     <SUITE FILE_PATH="coverage/demo16_20$3.coverage" NAME="3分治法 Coverage Results" MODIFIED="1701943108626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06数据结构/03常用算法" />
     <SUITE FILE_PATH="coverage/demo16_20$3_1.coverage" NAME="3_1快排 Coverage Results" MODIFIED="1701943426402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06数据结构/03常用算法" />
-    <SUITE FILE_PATH="coverage/demo16_20$1.coverage" NAME="1装饰器函数 Coverage Results" MODIFIED="1701974397550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07函数" />
-    <SUITE FILE_PATH="coverage/demo16_20$4.coverage" NAME="4回溯 Coverage Results" MODIFIED="1701953416098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06数据结构/03常用算法" />
+    <SUITE FILE_PATH="coverage/demo16_20$1.coverage" NAME="1三大支柱 Coverage Results" MODIFIED="1702035948469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08面向对象" />
+    <SUITE FILE_PATH="coverage/demo16_20$4.coverage" NAME="4设计模式 Coverage Results" MODIFIED="1702046300427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08面向对象" />
   </component>
 </project>
